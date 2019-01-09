@@ -1,2 +1,3 @@
-# AI-Racers
-Artificial Intelligence project of a car race, implementing three algorithms: Hill Climbing, Simulated Annealing and Genetic Algorithm 
+### 
+Trabalho para a disciplina Inteligencia Artificial 2018/2. Grupo 02. 
+###
